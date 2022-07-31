@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleffsoares8/) [![E-mail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aleffsoares8@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleffSoares&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleffSoares&count_private=true)
 
 
 ## Tecnologias que eu uso no meu dia
